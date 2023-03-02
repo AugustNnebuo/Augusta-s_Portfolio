@@ -3,10 +3,18 @@
 
 # 	[Project 1: Exoloratory Data Analysis Project](https://github.com/AugustNnebuo/EDA-on-Google-Playstore-Dataset-)
 
-This is an exploratory data analysis project i did on the Google Playstore dataset. The goal of the prject was to help google which product/app are mostly patronised by their customers, why, and how they can increase their sales.
+This is an exploratory data analysis project i did on the Google Playstore dataset. The goal of the prject was to help google which product/app are mostly patronised by their customers, why, and how they can increase their sales. It was a personal project.
 
 * Data was gotten from Kaggle
 * The project was done with Python on a Jupyter notebook. Pandas and Numpy was used for the analysis, and seaborn and matplotlibb for visualization.
 
 
-# 	[Project 2: House Pricing Prediction Model](https://github.com/AugustNnebuo/EDA-on-Google-Playstore-Dataset-)
+# 	[Project 2: House Pricing Prediction Model](https://github.com/AugustNnebuo/Price_Prediction_Model)
+
+This is a machine learning prediction model. The goal of this project is to be able to create machine learning model that can predict the prices of future houses in a district in California based on the data from previous sold houses. 
+
+*The data used was the California Housing Dataset from Kaggle.
+*Algorithms used: Pandas,Matplotlib, Seaborn, Linear regression model, lasso regression model.
+
+
+# 	[Project 3: Heart Failure Prediction](https://github.com/AugustNnebuo/Price_Prediction_Model)
