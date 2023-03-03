@@ -11,10 +11,17 @@ This is an exploratory data analysis project i did on the Google Playstore datas
 
 # 	[Project 2: House Pricing Prediction Model](https://github.com/AugustNnebuo/Price_Prediction_Model)
 
-This is a machine learning prediction model. The goal of this project is to be able to create machine learning model that can predict the prices of future houses in a district in California based on the data from previous sold houses. 
+This is a machine learning regression model. The goal of this project is to be able to create machine learning model that can predict the prices of future houses in a district in California based on the data from previous sold houses. 
 
 *The data used was the California Housing Dataset from Kaggle.
 *Algorithms used: Pandas,Matplotlib, Seaborn, Linear regression model, lasso regression model.
 
 
-# 	[Project 3: Heart Failure Prediction](https://github.com/AugustNnebuo/Price_Prediction_Model)
+# 	[Project 3: Heart Failure Prediction](https://github.com/AugustNnebuo/Heart-Failure-Prediction-model)
+
+This was a group project done for the WomenTechsters Fellowship Program.  A classification model was built to detect if a patient has or does not have a heart disease 
+based on the other features known. 
+
+Algorthms used: Logistic regression, Decision tree, Random forest, SVM, KNN
+
+#   [Project 3: SQL PROJECT]( )
