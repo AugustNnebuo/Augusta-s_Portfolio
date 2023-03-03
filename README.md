@@ -24,4 +24,4 @@ based on the other features known.
 
 Algorthms used: Logistic regression, Decision tree, Random forest, SVM, KNN
 
-#   [Project 3: SQL PROJECT: EDA on International Breweries dataset](https://technology4dev-my.sharepoint.com/:b:/g/personal/augusta_nnebuo_womentechsters_org/EaeMsIWudGdIhnF8pHmCAwMBWcy5tJiu0RKWBh6wE1cQGg?e=2l5JrM)
+#   [Project 4: SQL PROJECT: EDA on International Breweries dataset](https://technology4dev-my.sharepoint.com/:b:/g/personal/augusta_nnebuo_womentechsters_org/EaeMsIWudGdIhnF8pHmCAwMBWcy5tJiu0RKWBh6wE1cQGg?e=2l5JrM)
