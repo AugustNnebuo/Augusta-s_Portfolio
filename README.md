@@ -24,4 +24,5 @@ based on the other features known.
 
 Algorthms used: Logistic regression, Decision tree, Random forest, SVM, KNN
 
-#   [Project 3: SQL PROJECT]( )
+#   [Project 3: SQL PROJECT](https://technology4dev-my.sharepoint.com/personal/augusta_nnebuo_womentechsters_org/Documents/Microsoft%20Teams%20Chat%20Files/SQL%20CAPSTONE%20PROJECT%20ON%20THE%20INTERNATIONAL%20BREWERIES%20DATASET.pdf
+)
